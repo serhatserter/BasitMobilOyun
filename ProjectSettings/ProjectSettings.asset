@@ -6,11 +6,11 @@ PlayerSettings:
   serializedVersion: 11
   productGUID: 559c611b213030a4b9d957fdc30e715f
   AndroidProfiler: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: SerhatSerter
   productName: Basit Oyun
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
